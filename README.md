@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
@@ -54,4 +56,12 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
