@@ -15,11 +15,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
