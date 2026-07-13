@@ -71,4 +71,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/khushi66011/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/khushi66011/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
