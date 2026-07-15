@@ -17,12 +17,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -32,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
@@ -62,10 +65,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
