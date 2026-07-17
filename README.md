@@ -19,6 +19,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/khushi66011/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/khushi66011/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
