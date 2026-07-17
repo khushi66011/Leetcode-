@@ -6,10 +6,12 @@
 | ------- |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushi66011/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi66011/Leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -37,6 +39,7 @@
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -69,6 +72,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
@@ -99,14 +103,24 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushi66011/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
