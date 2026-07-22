@@ -36,6 +36,7 @@
 | [0031-next-permutation](https://github.com/khushi66011/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -148,5 +149,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
