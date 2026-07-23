@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/khushi66011/Leetcode-/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -151,4 +153,8 @@
 | ------- |
 | [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
