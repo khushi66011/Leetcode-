@@ -27,6 +27,7 @@
 | [0031-next-permutation](https://github.com/khushi66011/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/khushi66011/Leetcode-/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -39,6 +40,7 @@
 | [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/khushi66011/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
