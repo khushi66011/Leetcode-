@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/khushi66011/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/khushi66011/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/khushi66011/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
