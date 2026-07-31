@@ -53,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/khushi66011/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/khushi66011/Leetcode-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/khushi66011/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -115,6 +117,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/khushi66011/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/khushi66011/Leetcode-/tree/master/0025-reverse-nodes-in-k-group) |
 ## Enumeration
 |  |
