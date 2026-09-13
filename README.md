@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khushi66011/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
@@ -154,6 +157,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -172,4 +176,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
