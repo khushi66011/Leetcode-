@@ -52,6 +52,7 @@
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
+| [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi66011/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi66011/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -106,12 +108,14 @@
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 ## Greedy
 |  |
 | ------- |
@@ -180,4 +184,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
