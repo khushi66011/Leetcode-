@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushi66011/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
@@ -13,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/khushi66011/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi66011/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/khushi66011/Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/khushi66011/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/khushi66011/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
