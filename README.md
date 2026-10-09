@@ -51,6 +51,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushi66011/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/khushi66011/Leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -151,6 +153,7 @@
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushi66011/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
