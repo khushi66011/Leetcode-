@@ -191,4 +191,20 @@
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/khushi66011/Leetcode-/tree/master/1856-maximum-subarray-min-product) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
