@@ -214,4 +214,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/khushi66011/Leetcode-/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
