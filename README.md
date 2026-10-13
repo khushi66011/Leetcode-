@@ -96,6 +96,7 @@
 | [0013-roman-to-integer](https://github.com/khushi66011/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/khushi66011/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushi66011/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+| [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
 ## Merge Sort
 |  |
 | ------- |
