@@ -42,6 +42,7 @@
 | [0018-4sum](https://github.com/khushi66011/Leetcode-/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/khushi66011/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/khushi66011/Leetcode-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/khushi66011/Leetcode-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
@@ -192,6 +193,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushi66011/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/khushi66011/Leetcode-/tree/master/0046-permutations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
