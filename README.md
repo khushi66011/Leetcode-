@@ -13,6 +13,7 @@
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi66011/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/khushi66011/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushi66011/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/khushi66011/Leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -66,6 +68,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi66011/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi66011/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushi66011/Leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/khushi66011/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushi66011/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -77,6 +80,7 @@
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +190,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushi66011/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -255,6 +260,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Database
 |  |
 | ------- |
