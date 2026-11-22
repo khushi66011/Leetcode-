@@ -58,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/khushi66011/Leetcode-/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/khushi66011/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi66011/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushi66011/Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/khushi66011/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushi66011/Leetcode-/tree/master/1004-max-consecutive-ones-iii) |
@@ -84,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [1329-sort-the-matrix-diagonally](https://github.com/khushi66011/Leetcode-/tree/master/1329-sort-the-matrix-diagonally) |
 ## Sorting
@@ -239,6 +241,7 @@
 | [0226-invert-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +278,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khushi66011/Leetcode-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -283,4 +287,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
