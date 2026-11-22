@@ -114,6 +114,7 @@
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi66011/Leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/khushi66011/Leetcode-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
