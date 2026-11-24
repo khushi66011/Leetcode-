@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/khushi66011/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushi66011/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/khushi66011/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/khushi66011/Leetcode-/tree/master/0127-word-ladder) |
 | [0202-happy-number](https://github.com/khushi66011/Leetcode-/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/khushi66011/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/khushi66011/Leetcode-/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/khushi66011/Leetcode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/khushi66011/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/khushi66011/Leetcode-/tree/master/0127-word-ladder) |
 | [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushi66011/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi66011/Leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -281,6 +283,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/khushi66011/Leetcode-/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/khushi66011/Leetcode-/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khushi66011/Leetcode-/tree/master/0733-flood-fill) |
@@ -296,4 +299,8 @@
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/khushi66011/Leetcode-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
