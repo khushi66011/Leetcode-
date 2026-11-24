@@ -84,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/khushi66011/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khushi66011/Leetcode-/tree/master/0152-maximum-product-subarray) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushi66011/Leetcode-/tree/master/1301-number-of-paths-with-max-score) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
@@ -201,6 +202,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/khushi66011/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0420-strong-password-checker](https://github.com/khushi66011/Leetcode-/tree/master/0420-strong-password-checker) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/khushi66011/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
@@ -252,6 +254,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khushi66011/Leetcode-/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -292,6 +295,7 @@
 | [0226-invert-binary-tree](https://github.com/khushi66011/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/khushi66011/Leetcode-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/khushi66011/Leetcode-/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -308,4 +312,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/khushi66011/Leetcode-/tree/master/0127-word-ladder) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/khushi66011/Leetcode-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
